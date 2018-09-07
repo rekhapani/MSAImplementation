@@ -1,0 +1,7 @@
+spring: 
+  kafka:
+    bootstrap-servers: localhost:9091  
+server:
+  port: 8084
+topic:
+  helloworld: microserviceTopic4
